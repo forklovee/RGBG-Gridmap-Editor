@@ -1,0 +1,33 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\rgbg\\plugins\\developer\\gridmapeditor-master\\source\\gridmap\\private\\leveldoor\\leveldoor.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\rgbg\\intermediate\\build\\win64\\rgbgeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\rgbg\\plugins\\developer\\gridmapeditor-master\\intermediate\\build\\win64\\unrealeditor\\development\\gridmap\\definitions.gridmap.h",
+            "d:\\rgbg\\plugins\\developer\\gridmapeditor-master\\source\\gridmap\\public\\leveldoor\\leveldoor.h",
+            "d:\\rgbg\\plugins\\developer\\gridmapeditor-master\\intermediate\\build\\win64\\unrealeditor\\inc\\gridmap\\leveldoor.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\components\\boxcomponent.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\shapecomponent.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\boxcomponent.generated.h",
+            "d:\\rgbg\\plugins\\developer\\gridmapeditor-master\\source\\gridmap\\public\\generators\\buildingfloorgenerator.h",
+            "d:\\rgbg\\plugins\\developer\\gridmapeditor-master\\source\\gridmap\\public\\gridmaproom.h",
+            "d:\\rgbg\\plugins\\developer\\gridmapeditor-master\\source\\gridmap\\public\\dataassets\\gridmaproomdataasset.h",
+            "d:\\rgbg\\plugins\\developer\\gridmapeditor-master\\source\\gridmap\\public\\tilestyle.h",
+            "d:\\rgbg\\plugins\\developer\\gridmapeditor-master\\intermediate\\build\\win64\\unrealeditor\\inc\\gridmap\\tilestyle.generated.h",
+            "d:\\rgbg\\plugins\\developer\\gridmapeditor-master\\intermediate\\build\\win64\\unrealeditor\\inc\\gridmap\\gridmaproomdataasset.generated.h",
+            "d:\\rgbg\\plugins\\developer\\gridmapeditor-master\\intermediate\\build\\win64\\unrealeditor\\inc\\gridmap\\gridmaproom.generated.h",
+            "d:\\rgbg\\plugins\\developer\\gridmapeditor-master\\source\\gridmap\\public\\dataassets\\gridmaplevelcollectiondataasset.h",
+            "d:\\rgbg\\plugins\\developer\\gridmapeditor-master\\intermediate\\build\\win64\\unrealeditor\\inc\\gridmap\\gridmaplevelcollectiondataasset.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\navigationsystem\\public\\navmesh\\navmeshboundsvolume.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\navigationsystem\\navmeshboundsvolume.generated.h",
+            "d:\\rgbg\\plugins\\developer\\gridmapeditor-master\\intermediate\\build\\win64\\unrealeditor\\inc\\gridmap\\buildingfloorgenerator.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\physicsengine\\physicsconstraintcomponent.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\physicsconstraintcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

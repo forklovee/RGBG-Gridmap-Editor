@@ -1,0 +1,41 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\rgbg 5.1 5.2\\plugins\\developer\\gridmapeditor-master\\source\\gridmap\\private\\gridmaproom.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\rgbg 5.1 5.2\\intermediate\\build\\win64\\x64\\rgbgeditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "d:\\rgbg 5.1 5.2\\plugins\\developer\\gridmapeditor-master\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\gridmap\\definitions.gridmap.h",
+            "d:\\rgbg 5.1 5.2\\plugins\\developer\\gridmapeditor-master\\source\\gridmap\\public\\gridmaproom.h",
+            "d:\\rgbg 5.1 5.2\\plugins\\developer\\gridmapeditor-master\\source\\gridmap\\public\\dataassets\\gridmaproomdataasset.h",
+            "d:\\rgbg 5.1 5.2\\plugins\\developer\\gridmapeditor-master\\source\\gridmap\\public\\tilestyle.h",
+            "d:\\rgbg 5.1 5.2\\plugins\\developer\\gridmapeditor-master\\intermediate\\build\\win64\\unrealeditor\\inc\\gridmap\\uht\\tilestyle.generated.h",
+            "d:\\rgbg 5.1 5.2\\plugins\\developer\\gridmapeditor-master\\intermediate\\build\\win64\\unrealeditor\\inc\\gridmap\\uht\\gridmaproomdataasset.generated.h",
+            "d:\\rgbg 5.1 5.2\\plugins\\developer\\gridmapeditor-master\\intermediate\\build\\win64\\unrealeditor\\inc\\gridmap\\uht\\gridmaproom.generated.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\components\\boxcomponent.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\components\\shapecomponent.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\shapecomponent.generated.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\boxcomponent.generated.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\components\\instancedstaticmeshcomponent.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\source\\runtime\\engine\\public\\elements\\sminstance\\sminstancemanager.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\source\\runtime\\engine\\public\\elements\\sminstance\\sminstanceelementid.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\source\\runtime\\engine\\public\\instancedstaticmeshdelegates.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\sminstanceelementid.generated.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\sminstancemanager.generated.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\source\\runtime\\engine\\public\\primitiveinstanceupdatecommand.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\instancedstaticmeshcomponent.generated.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\components\\textrendercomponent.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\textrendercomponent.generated.h",
+            "d:\\rgbg 5.1 5.2\\plugins\\developer\\gridmapeditor-master\\source\\gridmap\\public\\leveldoor\\leveldoor.h",
+            "d:\\rgbg 5.1 5.2\\plugins\\developer\\gridmapeditor-master\\intermediate\\build\\win64\\unrealeditor\\inc\\gridmap\\uht\\leveldoor.generated.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\engine\\font.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\engine\\fontimportoptions.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\fontimportoptions.generated.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\source\\runtime\\slatecore\\public\\fonts\\fontproviderinterface.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\slatecore\\uht\\fontproviderinterface.generated.h",
+            "c:\\program files\\epic games\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\font.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\rgbg\\plugins\\developer\\gridmapeditor-master\\source\\gridmap\\private\\generators\\buildingfloorgenerator.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\rgbg\\intermediate\\build\\win64\\rgbgeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\rgbg\\plugins\\developer\\gridmapeditor-master\\intermediate\\build\\win64\\unrealeditor\\development\\gridmap\\definitions.gridmap.h",
+            "d:\\rgbg\\plugins\\developer\\gridmapeditor-master\\source\\gridmap\\public\\generators\\buildingfloorgenerator.h",
+            "d:\\rgbg\\plugins\\developer\\gridmapeditor-master\\source\\gridmap\\public\\gridmaproom.h",
+            "d:\\rgbg\\plugins\\developer\\gridmapeditor-master\\source\\gridmap\\public\\dataassets\\gridmaproomdataasset.h",
+            "d:\\rgbg\\plugins\\developer\\gridmapeditor-master\\source\\gridmap\\public\\tilestyle.h",
+            "d:\\rgbg\\plugins\\developer\\gridmapeditor-master\\intermediate\\build\\win64\\unrealeditor\\inc\\gridmap\\tilestyle.generated.h",
+            "d:\\rgbg\\plugins\\developer\\gridmapeditor-master\\intermediate\\build\\win64\\unrealeditor\\inc\\gridmap\\gridmaproomdataasset.generated.h",
+            "d:\\rgbg\\plugins\\developer\\gridmapeditor-master\\intermediate\\build\\win64\\unrealeditor\\inc\\gridmap\\gridmaproom.generated.h",
+            "d:\\rgbg\\plugins\\developer\\gridmapeditor-master\\source\\gridmap\\public\\dataassets\\gridmaplevelcollectiondataasset.h",
+            "d:\\rgbg\\plugins\\developer\\gridmapeditor-master\\intermediate\\build\\win64\\unrealeditor\\inc\\gridmap\\gridmaplevelcollectiondataasset.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\navigationsystem\\public\\navmesh\\navmeshboundsvolume.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\navigationsystem\\navmeshboundsvolume.generated.h",
+            "d:\\rgbg\\plugins\\developer\\gridmapeditor-master\\intermediate\\build\\win64\\unrealeditor\\inc\\gridmap\\buildingfloorgenerator.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\components\\instancedstaticmeshcomponent.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\public\\elements\\sminstance\\sminstancemanager.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\public\\elements\\sminstance\\sminstanceelementid.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\public\\instancedstaticmeshdelegates.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\sminstanceelementid.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\sminstancemanager.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\public\\primitiveinstanceupdatecommand.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\instancedstaticmeshcomponent.generated.h",
+            "d:\\rgbg\\plugins\\developer\\gridmapeditor-master\\source\\gridmap\\public\\leveldoor\\leveldoor.h",
+            "d:\\rgbg\\plugins\\developer\\gridmapeditor-master\\intermediate\\build\\win64\\unrealeditor\\inc\\gridmap\\leveldoor.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\public\\levelinstance\\levelinstanceactor.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\public\\levelinstance\\levelinstancetypes.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\levelinstancetypes.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\public\\worldpartition\\worldpartitionactordesc.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\levelinstanceactor.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

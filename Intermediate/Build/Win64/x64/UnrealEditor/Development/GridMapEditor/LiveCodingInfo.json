@@ -1,0 +1,36 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.GridMapEditor.cpp.obj": [
+			"ActorSpawnerDataAssetFactory.gen.cpp.obj",
+			"GridMapEditor.init.gen.cpp.obj",
+			"GridmapLevelCollectionDataAssetFactory.gen.cpp.obj",
+			"GridMapTileSetFactory.gen.cpp.obj",
+			"LevelDataAssetFactory.gen.cpp.obj",
+			"RoomDataAssetFactory.gen.cpp.obj",
+			"TileSet_ThumbnailRenderer.gen.cpp.obj",
+			"ActorSpawnerDataAssetFactory.cpp.obj",
+			"ActorSpawnerDataAssetTypeActions.cpp.obj",
+			"GridmapLevelCollectionDataAssetFactory.cpp.obj",
+			"GridmapLevelCollectionDataAssetTypeActions.cpp.obj",
+			"GridMapTileSetAssetTypeActions.cpp.obj",
+			"GridMapTileSetFactory.cpp.obj",
+			"LevelDataAssetFactory.cpp.obj",
+			"LevelDataAssetTypeActions.cpp.obj",
+			"RoomDataAssetFactory.cpp.obj",
+			"RoomDataAssetTypeActions.cpp.obj",
+			"GridMapEditCommands.cpp.obj",
+			"GridMapEditor.cpp.obj",
+			"GridMapEditorMode.cpp.obj",
+			"GridMapEditorModeToolkit.cpp.obj",
+			"GridMapEditorUISettings.cpp.obj",
+			"GridMapStyleSet.cpp.obj",
+			"TileBitsetCustomization.cpp.obj",
+			"TileSet_ThumbnailRenderer.cpp.obj",
+			"GridMapEditorSettingsWidget.cpp.obj",
+			"GridMapEditorToolkitWidget.cpp.obj",
+			"STileSetPalette.cpp.obj",
+			"TileSetPaletteItem.cpp.obj"
+		]
+	}
+}

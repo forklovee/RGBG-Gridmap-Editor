@@ -1,0 +1,21 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\rgbg 5.1 5.2\\plugins\\developer\\gridmapeditor-master\\source\\gridmapeditor\\private\\assetfactories\\leveldataassetfactory.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\rgbg 5.1 5.2\\intermediate\\build\\win64\\x64\\rgbgeditor\\development\\unrealed\\sharedpch.unrealed.shadowerrors.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "d:\\rgbg 5.1 5.2\\plugins\\developer\\gridmapeditor-master\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\gridmapeditor\\definitions.gridmapeditor.h",
+            "d:\\rgbg 5.1 5.2\\plugins\\developer\\gridmapeditor-master\\source\\gridmapeditor\\private\\assetfactories\\leveldataassetfactory.h",
+            "d:\\rgbg 5.1 5.2\\plugins\\developer\\gridmapeditor-master\\intermediate\\build\\win64\\unrealeditor\\inc\\gridmapeditor\\uht\\leveldataassetfactory.generated.h",
+            "d:\\rgbg 5.1 5.2\\plugins\\developer\\gridmapeditor-master\\source\\gridmap\\public\\dataassets\\baseleveldataasset.h",
+            "d:\\rgbg 5.1 5.2\\plugins\\developer\\gridmapeditor-master\\source\\gridmap\\public\\dataassets\\gridmaproomdataasset.h",
+            "d:\\rgbg 5.1 5.2\\plugins\\developer\\gridmapeditor-master\\source\\gridmap\\public\\tilestyle.h",
+            "d:\\rgbg 5.1 5.2\\plugins\\developer\\gridmapeditor-master\\intermediate\\build\\win64\\unrealeditor\\inc\\gridmap\\uht\\tilestyle.generated.h",
+            "d:\\rgbg 5.1 5.2\\plugins\\developer\\gridmapeditor-master\\intermediate\\build\\win64\\unrealeditor\\inc\\gridmap\\uht\\gridmaproomdataasset.generated.h",
+            "d:\\rgbg 5.1 5.2\\plugins\\developer\\gridmapeditor-master\\intermediate\\build\\win64\\unrealeditor\\inc\\gridmap\\uht\\baseleveldataasset.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

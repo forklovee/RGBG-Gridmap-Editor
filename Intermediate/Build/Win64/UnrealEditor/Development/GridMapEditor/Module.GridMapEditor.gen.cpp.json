@@ -1,0 +1,38 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\projekty\\myproject\\plugins\\developer\\gridmapeditor\\intermediate\\build\\win64\\unrealeditor\\development\\gridmapeditor\\module.gridmapeditor.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\projekty\\myproject\\intermediate\\build\\win64\\myprojecteditor\\development\\unrealed\\sharedpch.unrealed.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\projekty\\myproject\\plugins\\developer\\gridmapeditor\\intermediate\\build\\win64\\unrealeditor\\development\\gridmapeditor\\definitions.gridmapeditor.h",
+            "c:\\projekty\\myproject\\plugins\\developer\\gridmapeditor\\intermediate\\build\\win64\\unrealeditor\\inc\\gridmapeditor\\actorspawnerdataassetfactory.gen.cpp",
+            "c:\\projekty\\myproject\\plugins\\developer\\gridmapeditor\\source\\gridmapeditor\\private\\assetfactories\\actorspawnerdataassetfactory.h",
+            "c:\\projekty\\myproject\\plugins\\developer\\gridmapeditor\\intermediate\\build\\win64\\unrealeditor\\inc\\gridmapeditor\\actorspawnerdataassetfactory.generated.h",
+            "c:\\projekty\\myproject\\plugins\\developer\\gridmapeditor\\intermediate\\build\\win64\\unrealeditor\\inc\\gridmapeditor\\gridmapeditor.init.gen.cpp",
+            "c:\\projekty\\myproject\\plugins\\developer\\gridmapeditor\\intermediate\\build\\win64\\unrealeditor\\inc\\gridmapeditor\\gridmaplevelcollectiondataassetfactory.gen.cpp",
+            "c:\\projekty\\myproject\\plugins\\developer\\gridmapeditor\\source\\gridmapeditor\\private\\assetfactories\\gridmaplevelcollectiondataassetfactory.h",
+            "c:\\projekty\\myproject\\plugins\\developer\\gridmapeditor\\intermediate\\build\\win64\\unrealeditor\\inc\\gridmapeditor\\gridmaplevelcollectiondataassetfactory.generated.h",
+            "c:\\projekty\\myproject\\plugins\\developer\\gridmapeditor\\intermediate\\build\\win64\\unrealeditor\\inc\\gridmapeditor\\gridmaptilesetfactory.gen.cpp",
+            "c:\\projekty\\myproject\\plugins\\developer\\gridmapeditor\\source\\gridmapeditor\\private\\assetfactories\\gridmaptilesetfactory.h",
+            "c:\\projekty\\myproject\\plugins\\developer\\gridmapeditor\\intermediate\\build\\win64\\unrealeditor\\inc\\gridmapeditor\\gridmaptilesetfactory.generated.h",
+            "c:\\projekty\\myproject\\plugins\\developer\\gridmapeditor\\intermediate\\build\\win64\\unrealeditor\\inc\\gridmapeditor\\leveldataassetfactory.gen.cpp",
+            "c:\\projekty\\myproject\\plugins\\developer\\gridmapeditor\\source\\gridmapeditor\\private\\assetfactories\\leveldataassetfactory.h",
+            "c:\\projekty\\myproject\\plugins\\developer\\gridmapeditor\\intermediate\\build\\win64\\unrealeditor\\inc\\gridmapeditor\\leveldataassetfactory.generated.h",
+            "c:\\projekty\\myproject\\plugins\\developer\\gridmapeditor\\intermediate\\build\\win64\\unrealeditor\\inc\\gridmapeditor\\roomdataassetfactory.gen.cpp",
+            "c:\\projekty\\myproject\\plugins\\developer\\gridmapeditor\\source\\gridmapeditor\\private\\assetfactories\\roomdataassetfactory.h",
+            "c:\\projekty\\myproject\\plugins\\developer\\gridmapeditor\\intermediate\\build\\win64\\unrealeditor\\inc\\gridmapeditor\\roomdataassetfactory.generated.h",
+            "c:\\projekty\\myproject\\plugins\\developer\\gridmapeditor\\intermediate\\build\\win64\\unrealeditor\\inc\\gridmapeditor\\tileset_thumbnailrenderer.gen.cpp",
+            "c:\\projekty\\myproject\\plugins\\developer\\gridmapeditor\\source\\gridmapeditor\\private\\tileset_thumbnailrenderer.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\editor\\unrealed\\classes\\thumbnailrendering\\staticmeshthumbnailrenderer.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\editor\\unrealed\\classes\\thumbnailrendering\\defaultsizedthumbnailrenderer.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\editor\\unrealed\\classes\\thumbnailrendering\\thumbnailrenderer.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealed\\thumbnailrenderer.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealed\\defaultsizedthumbnailrenderer.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\unrealed\\staticmeshthumbnailrenderer.generated.h",
+            "c:\\projekty\\myproject\\plugins\\developer\\gridmapeditor\\intermediate\\build\\win64\\unrealeditor\\inc\\gridmapeditor\\tileset_thumbnailrenderer.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

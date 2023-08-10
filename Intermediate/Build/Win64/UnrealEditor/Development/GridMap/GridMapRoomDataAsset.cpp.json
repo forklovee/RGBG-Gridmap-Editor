@@ -1,0 +1,17 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\rgbg\\plugins\\developer\\gridmapeditor-master\\source\\gridmap\\private\\dataassets\\gridmaproomdataasset.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\rgbg\\intermediate\\build\\win64\\rgbgeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\rgbg\\plugins\\developer\\gridmapeditor-master\\intermediate\\build\\win64\\unrealeditor\\development\\gridmap\\definitions.gridmap.h",
+            "d:\\rgbg\\plugins\\developer\\gridmapeditor-master\\source\\gridmap\\public\\dataassets\\gridmaproomdataasset.h",
+            "d:\\rgbg\\plugins\\developer\\gridmapeditor-master\\source\\gridmap\\public\\tilestyle.h",
+            "d:\\rgbg\\plugins\\developer\\gridmapeditor-master\\intermediate\\build\\win64\\unrealeditor\\inc\\gridmap\\tilestyle.generated.h",
+            "d:\\rgbg\\plugins\\developer\\gridmapeditor-master\\intermediate\\build\\win64\\unrealeditor\\inc\\gridmap\\gridmaproomdataasset.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-GridMapEditor.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\porlo\Documents\subject_n_unreal\subject_n\Intermediate\Build\Win64\subject_nEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"C:\Users\porlo\Documents\subject_n_unreal\subject_n\Plugins\Developer\GridMapEditor\Intermediate\Build\Win64\UnrealEditor\Development\GridMapEditor\Module.GridMapEditor.cpp.obj"
+"C:\Users\porlo\Documents\subject_n_unreal\subject_n\Plugins\Developer\GridMapEditor\Intermediate\Build\Win64\UnrealEditor\Development\GridMapEditor\Module.GridMapEditor.gen.cpp.obj"
+"C:\Users\porlo\Documents\subject_n_unreal\subject_n\Plugins\Developer\GridMapEditor\Intermediate\Build\Win64\UnrealEditor\Development\GridMapEditor\Default.rc2.res"
+/OUT:"C:\Users\porlo\Documents\subject_n_unreal\subject_n\Plugins\Developer\GridMapEditor\Intermediate\Build\Win64\UnrealEditor\Development\GridMapEditor\UnrealEditor-GridMapEditor.lib"

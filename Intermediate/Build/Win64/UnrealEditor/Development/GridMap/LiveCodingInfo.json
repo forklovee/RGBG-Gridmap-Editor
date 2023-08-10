@@ -1,0 +1,35 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.GridMap.cpp.obj": [
+			"BaseLevelDataAsset.cpp.obj",
+			"GridmapLevelCollectionDataAsset.cpp.obj",
+			"GridMapRoomDataAsset.cpp.obj",
+			"MainLevelElevator.cpp.obj",
+			"BuildingFloorGenerator.cpp.obj",
+			"GridMap.cpp.obj",
+			"GridMapDynamicCorridor.cpp.obj",
+			"GridmapRoom.cpp.obj",
+			"LevelDoor.cpp.obj",
+			"PreviewRoom.cpp.obj",
+			"ActorSpawner.cpp.obj",
+			"SpawnerDataAsset.cpp.obj",
+			"TileStyle.cpp.obj"
+		],
+		"Module.GridMap.gen.cpp.obj": [
+			"ActorSpawner.gen.cpp.obj",
+			"BaseLevelDataAsset.gen.cpp.obj",
+			"BuildingFloorGenerator.gen.cpp.obj",
+			"GridMap.init.gen.cpp.obj",
+			"GridMapDynamicCorridor.gen.cpp.obj",
+			"GridmapLevelCollectionDataAsset.gen.cpp.obj",
+			"GridmapRoom.gen.cpp.obj",
+			"GridMapRoomDataAsset.gen.cpp.obj",
+			"LevelDoor.gen.cpp.obj",
+			"MainLevelElevator.gen.cpp.obj",
+			"PreviewRoom.gen.cpp.obj",
+			"SpawnerDataAsset.gen.cpp.obj",
+			"TileStyle.gen.cpp.obj"
+		]
+	}
+}

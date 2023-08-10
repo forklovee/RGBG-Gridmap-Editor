@@ -1,0 +1,29 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.5",
+	"FriendlyName": "RGBG Room Data Editor",
+	"Description": "RGBG Room Data Editor",
+	"Category": "Gameplay",
+	"CreatedBy": "Piotr Orlof, Jay Murray",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "GridMap",
+			"Type": "Runtime",
+			"LoadingPhase": "PreDefault"
+		},
+		{
+			"Name": "GridMapEditor",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}

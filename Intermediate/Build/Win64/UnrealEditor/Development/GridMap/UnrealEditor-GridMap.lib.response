@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-GridMap.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Projekty\MyProject\Intermediate\Build\Win64\MyProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Projekty\MyProject\Plugins\Developer\GridMapEditor\Intermediate\Build\Win64\UnrealEditor\Development\GridMap\Module.GridMap.cpp.obj"
+"C:\Projekty\MyProject\Plugins\Developer\GridMapEditor\Intermediate\Build\Win64\UnrealEditor\Development\GridMap\Module.GridMap.gen.cpp.obj"
+"C:\Projekty\MyProject\Plugins\Developer\GridMapEditor\Intermediate\Build\Win64\UnrealEditor\Development\GridMap\Default.rc2.res"
+/OUT:"C:\Projekty\MyProject\Plugins\Developer\GridMapEditor\Intermediate\Build\Win64\UnrealEditor\Development\GridMap\UnrealEditor-GridMap.lib"

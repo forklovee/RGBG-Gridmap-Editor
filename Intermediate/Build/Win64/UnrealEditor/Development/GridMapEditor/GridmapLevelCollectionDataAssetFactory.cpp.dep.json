@@ -1,0 +1,17 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "d:\\rgbg 5.1\\plugins\\developer\\gridmapeditor-master\\source\\gridmapeditor\\private\\assetfactories\\gridmaplevelcollectiondataassetfactory.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\rgbg 5.1\\intermediate\\build\\win64\\rgbgeditor\\development\\unrealed\\sharedpch.unrealed.shadowerrors.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "d:\\rgbg 5.1\\plugins\\developer\\gridmapeditor-master\\intermediate\\build\\win64\\unrealeditor\\development\\gridmapeditor\\definitions.gridmapeditor.h",
+            "d:\\rgbg 5.1\\plugins\\developer\\gridmapeditor-master\\source\\gridmapeditor\\private\\assetfactories\\gridmaplevelcollectiondataassetfactory.h",
+            "d:\\rgbg 5.1\\plugins\\developer\\gridmapeditor-master\\intermediate\\build\\win64\\unrealeditor\\inc\\gridmapeditor\\uht\\gridmaplevelcollectiondataassetfactory.generated.h",
+            "d:\\rgbg 5.1\\plugins\\developer\\gridmapeditor-master\\source\\gridmap\\public\\dataassets\\gridmaplevelcollectiondataasset.h",
+            "d:\\rgbg 5.1\\plugins\\developer\\gridmapeditor-master\\intermediate\\build\\win64\\unrealeditor\\inc\\gridmap\\uht\\gridmaplevelcollectiondataasset.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

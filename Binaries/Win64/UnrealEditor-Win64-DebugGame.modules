@@ -1,0 +1,8 @@
+{
+	"BuildId": "19505902",
+	"Modules": 
+	{
+		"GridMap": "UnrealEditor-GridMap-Win64-DebugGame.dll",
+		"GridMapEditor": "UnrealEditor-GridMapEditor-Win64-DebugGame.dll"
+	}
+}
